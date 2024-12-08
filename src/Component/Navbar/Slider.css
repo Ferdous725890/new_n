@@ -1,0 +1,16 @@
+.slider-container {
+    margin: 20px;
+  }
+  
+  .slick-slide {
+    display: flex !important; /* Ensure content is aligned properly */
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slick-slide img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
